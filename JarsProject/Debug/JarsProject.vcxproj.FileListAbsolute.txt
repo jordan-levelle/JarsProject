@@ -1,0 +1,4 @@
+C:\Users\looksoundfeel\source\repos\JarsProject\Debug\JarsProject.exe
+C:\Users\looksoundfeel\source\repos\JarsProject\Debug\JarsProject.pdb
+C:\C++\CS 231\JarsProject\Debug\JarsProject.exe
+C:\C++\CS 231\JarsProject\Debug\JarsProject.pdb
